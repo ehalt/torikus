@@ -1,0 +1,39 @@
+
+/* =============== Hero section  ====================== */
+
+
+
+/* =============== About section ===================== */
+@media(max-width: 576px){
+    .amm img{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .amm2{
+        padding-left: 7.5%;
+        padding-right: 7.5%;
+    }
+}
+/* ======================/ experience and education====================== */
+@media(max-width: 576px){
+    .ex h2{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .ex h5{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .ex p{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+}
+
+/* =======================/ Skill bar /================= */
+@media(max-width: 576px){
+    .skb1{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

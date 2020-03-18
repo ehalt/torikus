@@ -1,0 +1,212 @@
+/* ==============Fonts section ================== */
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+/* font-family: 'Righteous', cursive; */
+/* heading h4 */
+@import url('https://fonts.googleapis.com/css?family=Rajdhani&display=swap');
+/* font-family: 'Rajdhani', sans-serif; */
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+
+/* ==================> NAv bar <================= */
+.navbg{
+    background: #F8F9FA;
+}
+
+/* ======================> home section <===================== */
+.herobg{
+    background: url(../img/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hr1{
+    width: 100%;
+    height: 500px;
+}
+.hr2{
+    margin-top: 16%;
+    margin-bottom: 10%;
+}
+.hr2 h1{
+    color: #fff;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Righteous', cursive;
+}
+.hr2 h4{
+    color: #2E6BE5;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+/* ================ About me ================= */
+
+.aboutmebg {
+    background: #0E0F10;
+}
+.am h2{
+
+}
+.amm2{
+    padding-top: 4%;
+}
+.amm2 p{
+    text-align: justify;
+    color: #fff;
+}
+.amm2 h2{
+    color: #fff;
+}
+.amm2 h5{
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+}
+.social a{
+    font-size: 25px;
+    color: #373BFF;
+    padding-right: 5%;
+}
+/* ============================== That i can do ================== */
+.ticbg{
+    background :#0E0F10;
+}
+.tido h2{
+    color :#fff;
+    text-align: center;
+}
+.ican a{
+    color: #2E6BE5;
+    font-size: 40px;
+}
+.ican h3{
+    color: #fff;
+}
+.ican p{
+    color: #fff;
+}
+.ican {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+/* ============================= Projects =========================== */
+
+.probg{
+    background: #0E0F10;
+}
+.proj{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.proj h2{
+    color: #fff;
+    text-align: center;
+}
+/* ====================> Experience section <================== */
+.experbg{
+    background: #0E0F10;
+}
+.rbg{
+}
+.exp{
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.exp h2{
+    text-align: center;
+    color: #fff;
+}
+.rbg{
+    border-radius: 10px;
+}
+.ic{
+    border-radius: 10px;
+    padding-left: 2.1%;
+    padding-right: 2.1%;
+}
+.ed{
+    border-radius: 10px;
+    padding-left: 1.2%;
+    padding-right: 1.2%;
+}
+.ex {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.ex h2{
+    color: #fff;
+    font-size: 25px;
+}
+.ex h5{
+    color: #373BFF;
+    font-size: 15px;
+}
+
+/* ================== skill bar ==================== */
+.skbg{
+    background:#0E0F10;
+}
+.skillb{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.ski img{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    margin-left: 10%;
+}
+
+
+h1 {
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+  }
+  
+  p {
+      margin: 0 0 25px;
+      line-height: 1.5;
+  }
+  
+
+  
+  .skillbar-container {
+    position:relative;
+    display:block;
+    margin-bottom: 15px;   
+    width: 100%;
+    background-color: #666463;
+    background-color: rgba(255,255,255,.1);
+    height:35px;
+    height:5px;
+  }
+    
+  .skills {
+    height:35px;
+    height:5px;
+    width:0px;
+  }
+  /* =================== Contact with me ============== */
+  .contactbg{
+      background: #0E0F10;
+      padding-top: 5%;
+  }
+  .con{
+      padding-top: 2%;
+      padding-bottom: 2%;
+  }
+  .cb{
+      background: black;
+      border-radius: 10px;
+  }
+  .ct{
+      padding-top: 4%;
+      padding-bottom: 4%;
+  }
+  .ct h3,h5{
+    color: #fff;
+    text-align: center;
+  }
